@@ -17,3 +17,9 @@ def robust_curl(curl_command, sleep_seconds=5):
     except:
         logging.debug("failed try for curl_command : " + curl_command)
         raise
+
+
+def get_attr(data, attr):
+    if attr in data:
+        return data[attr]
+    return None
