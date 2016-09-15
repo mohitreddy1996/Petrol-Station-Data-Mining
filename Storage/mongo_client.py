@@ -8,7 +8,8 @@ client_host_map = {
 }
 
 coll_db_map = {
-    props.COLL_BHARAT_PETROLEUM: props.DB_FUELSTATION
+    props.COLL_BHARAT_PETROLEUM: props.DB_FUELSTATION,
+    props.COLL_HPCL: props.DB_FUELSTATION
 }
 
 db_client_map = {

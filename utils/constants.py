@@ -5,6 +5,7 @@ hpcl = "hpcl"
 
 # Curl Templates for Retailers.
 BP_CURL = "bharatpetroleum_curl"
+HPCL_CURL = "hpcl_curl"
 
 
 # State Names

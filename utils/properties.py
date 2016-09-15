@@ -2,6 +2,7 @@
 DB_FUELSTATION = "FuelStation"
 
 COLL_BHARAT_PETROLEUM = "bharat_petroleum"
+COLL_HPCL = "hpcl"
 
 LOCALHOST = "localhost"
 
