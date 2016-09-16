@@ -47,6 +47,10 @@ Uttarakhand = "Uttarakhand"
 West_Bengal = "West Bengal"
 
 
+# State names for HPCL
+
+
+
 # District Names
 BAGALKOT = "bagalkot"
 BANGALORE_RUR = "bangalore_rural"
